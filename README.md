@@ -12,4 +12,4 @@ The app is catered for the user to budget, in terms of how they track their expe
 
 the video explaination detailing about the app's capabilities is on this link: https://youtu.be/zxMxXnNUOeM 
 
-the apps apk could be installed with this link here: 
+the apps apk could be installed on your device by going on to the release page of the repository
